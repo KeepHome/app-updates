@@ -1,0 +1,19 @@
+{
+  "tag": "v0.1.2",
+  "version": "0.1.2",
+  "release_url": "https://github.com/KeepHome/app/releases/tag/v0.1.2",
+  "published_at": "2026-08-06T14:18:00Z",
+  "minimum_macos": "14.0",
+  "assets": {
+    "pkg": {
+      "name": "KeepHome-macOS-v0.1.2.pkg",
+      "url": "https://github.com/KeepHome/app/releases/download/v0.1.2/KeepHome-macOS-v0.1.2.pkg",
+      "sha256_url": "https://github.com/KeepHome/app/releases/download/v0.1.2/KeepHome-macOS-v0.1.2.pkg.sha256"
+    },
+    "zip": {
+      "name": "KeepHome-macOS-v0.1.2.zip",
+      "url": "https://github.com/KeepHome/app/releases/download/v0.1.2/KeepHome-macOS-v0.1.2.zip",
+      "sha256_url": "https://github.com/KeepHome/app/releases/download/v0.1.2/KeepHome-macOS-v0.1.2.zip.sha256"
+    }
+  }
+}
